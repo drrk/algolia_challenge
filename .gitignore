@@ -1,4 +1,6 @@
 vendor/**
 config.php
 payload.json
-
+demo/node_modules
+demo/.cache/
+demo/dist/
